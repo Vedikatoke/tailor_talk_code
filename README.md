@@ -20,5 +20,5 @@ An AI chatbot that books meetings on your Google Calendar via chat using Streaml
 
 ### 1. Clone the Repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/tailor-talk-assistant.git
+git clone https://github.com/Vedikatoke/tailor-talk-assistant.git
 cd tailor-talk-assistant
